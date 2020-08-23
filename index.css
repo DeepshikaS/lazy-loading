@@ -11,8 +11,9 @@
   text-align: center;
   margin: 4rem;
   font-size: 3.2rem;
-  text-shadow: 3px 3px rgb(124, 144, 209);
+  text-shadow: 3px 3px rgb(160, 233, 150);
   font-style: oblique;
+  color: rgb(21, 122, 97);
 }
 
 img {
